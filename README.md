@@ -6,4 +6,4 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-![design](https://dribbble.com/shots/7969387-Coffee-To-Go-app-design/attachments/520952?mode=media)
+![design](https://user-images.githubusercontent.com/8137504/68534393-1c99c180-035a-11ea-8bbe-5081c734f7a1.png)
